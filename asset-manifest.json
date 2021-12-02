@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/andsaru/ReactTest.git/static/css/main.22b6e383.chunk.css",
+    "main.js": "/andsaru/ReactTest.git/static/js/main.fcc002c4.chunk.js",
+    "main.js.map": "/andsaru/ReactTest.git/static/js/main.fcc002c4.chunk.js.map",
+    "runtime-main.js": "/andsaru/ReactTest.git/static/js/runtime-main.85370dbb.js",
+    "runtime-main.js.map": "/andsaru/ReactTest.git/static/js/runtime-main.85370dbb.js.map",
+    "static/js/2.fe89be9f.chunk.js": "/andsaru/ReactTest.git/static/js/2.fe89be9f.chunk.js",
+    "static/js/2.fe89be9f.chunk.js.map": "/andsaru/ReactTest.git/static/js/2.fe89be9f.chunk.js.map",
+    "index.html": "/andsaru/ReactTest.git/index.html",
+    "static/css/main.22b6e383.chunk.css.map": "/andsaru/ReactTest.git/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.fe89be9f.chunk.js.LICENSE.txt": "/andsaru/ReactTest.git/static/js/2.fe89be9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85370dbb.js",
+    "static/js/2.fe89be9f.chunk.js",
+    "static/css/main.22b6e383.chunk.css",
+    "static/js/main.fcc002c4.chunk.js"
+  ]
+}
